@@ -1,34 +1,74 @@
+# 〔 RAJDIP GARAI 〕
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=technosnag&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+> Building with intent. Shipping with purpose.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rajdeep Garai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bramhadoitttt._o) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rajdeep Garai) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RajdipGarai_07) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rajdip Garai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajdeepgarai123@gmail.com) 
+## 〔 SYSTEM IDENTITY 〕
 
-<!-- Snake Game Repo View -->
+```bash
+$ whoami
+> Rajdip Garai
+> Developer | Problem Solver | Builder
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+$ cat /etc/profile
+> ROLE : Software-focused learner
+> BASE : India
+> STACK : C / Python / Cloud
+> MISSION : Create useful projects and grow with every build
+```
 
+## 〔 SKILL MATRIX 〕
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rajdipgarai-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rajdipgarai-07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdipgarai-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+```text
+Languages      : C, Python
+Systems        : Linux, Git, CLI tools
+Cloud          : Google Cloud
+Focus          : Core programming, automation, clean code
+Superpower     : Turning ideas into reliable solutions
+```
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rajdipgarai-07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 〔 TECH ARSENAL 〕
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rajdipgarai-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 〔 CURRENT BUILD FOCUS 〕
+
+```text
+C Programming        [##########] 80%
+Python Projects     [#########-] 75%
+Problem Solving     [########--] 70%
+Open Source Growth  [#######---] 65%
+```
+
+## 〔 30-DAY DELIVERY MAP 〕
+
+```text
+WEEK 01 : Strengthen fundamentals and practice daily
+WEEK 02 : Build one polished project from idea to repo
+WEEK 03 : Improve code quality, docs, and optimization
+WEEK 04 : Publish, review, and reflect on growth
+```
+
+## 〔 PROOF OF WORK 〕
+
+![](https://github-readme-stats.vercel.app/api?username=Rajdipgarai-07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rajdipgarai-07&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdipgarai-07&theme=tokyonight&hide_border=false&layout=compact)
+
+## 〔 ACHIEVEMENTS 〕
+
+![](https://github-profile-trophy.vercel.app/?username=Rajdipgarai-07&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+## 〔 MISSION TIMELINE 〕
+
+- Learn deeply, not just quickly
+- Build projects that solve real problems
+- Keep improving with every commit
+- Stay consistent and ship regularly
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rajdipgarai-07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+“Code should be useful, readable, and built to last.”
